@@ -17,9 +17,9 @@ How to install (very simple):
 DISCLAIMER: it's not a perfect project, it was made for didactical purposes, it has a few flaws ant lots of stuff that could be surely improved. If you want to try it out, and then work on it on your own to improve it, feel free to do so!
 
 
-Readme file of the project:
+Original README file of the project:
 # Exam #3: "Categorie"
-## Student: s305985 Torredimare Andrea 
+## Student: Torredimare Andrea 
 
 ## React Client Application Routes
 
