@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+*.pdf
+*.txt
+
+# misc
+.DS_Store
+Thumbs.db
+Desktop.ini
